@@ -4,3 +4,5 @@ langchain-community>=0.0.19
 duckduckgo-search>=1.6
 langchain-google-genai>=0.0.5
 google-generativeai>=0.4.1
+yfinance
+matplotlib
